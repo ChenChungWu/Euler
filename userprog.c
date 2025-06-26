@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello Euler Team Latest again\n");
+	printf("Hello Euler Team before pushing again\n");
 	return 0;
 }
