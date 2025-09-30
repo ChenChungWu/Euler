@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello Euler team modification by remote.\n");
+	printf("Hello Euler team latest.\n");
 	return 0;
 }
