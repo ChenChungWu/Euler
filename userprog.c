@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello Euler team modification.\n");
+	printf("Hello Euler team latest.\n");
 	return 0;
 }
